@@ -22,4 +22,10 @@ public class SeleniumTest {
 		System.out.println("UI Automation");
 	}
 	
+	
+	@Test
+	public void Mobileautomation()
+	{
+		System.out.println("Mobile");
+	}
 }
