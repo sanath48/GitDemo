@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-19T18:41:24 IST" name="Command line suite" finished-at="2020-04-19T18:41:25 IST" duration-ms="100">
+    <groups>
+    </groups>
+    <test started-at="2020-04-19T18:41:24 IST" name="Command line test" finished-at="2020-04-19T18:41:25 IST" duration-ms="100">
+      <class name="sanathkumar.SeleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:sanathkumar.SeleniumTest@5e57643e]" started-at="2020-04-19T18:41:25 IST" name="BrowserAutomation" finished-at="2020-04-19T18:41:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="ElementsUI()[pri:0, instance:sanathkumar.SeleniumTest@5e57643e]" started-at="2020-04-19T18:41:25 IST" name="ElementsUI" finished-at="2020-04-19T18:41:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+      </class> <!-- sanathkumar.SeleniumTest -->
+      <class name="sanathkumar.AppiumTest">
+        <test-method signature="AppleIOS()[pri:0, instance:sanathkumar.AppiumTest@4f51b3e0]" started-at="2020-04-19T18:41:24 IST" name="AppleIOS" finished-at="2020-04-19T18:41:24 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppleIOS -->
+        <test-method signature="NativeAppAndroid()[pri:0, instance:sanathkumar.AppiumTest@4f51b3e0]" started-at="2020-04-19T18:41:24 IST" name="NativeAppAndroid" finished-at="2020-04-19T18:41:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- sanathkumar.AppiumTest -->
+      <class name="sanathkumar.RestAPITest">
+        <test-method signature="PostJira()[pri:0, instance:sanathkumar.RestAPITest@4b9e255]" started-at="2020-04-19T18:41:24 IST" name="PostJira" finished-at="2020-04-19T18:41:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+        <test-method signature="facebookdelete()[pri:0, instance:sanathkumar.RestAPITest@4b9e255]" started-at="2020-04-19T18:41:25 IST" name="facebookdelete" finished-at="2020-04-19T18:41:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookdelete -->
+      </class> <!-- sanathkumar.RestAPITest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
